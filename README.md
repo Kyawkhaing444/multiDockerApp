@@ -5,4 +5,4 @@ In this project, I will set up a multi-container application ( simple app with c
 ![App Architecture Diagrams](./project3_project_architecture_diagram.png)
 
 **This project is part of my DevOps Challenge activities in which I practice my DevOps Skills and other backend technologies.**
-Github repo link - <https://github.com/Kyawkhaing444/nextjs_cicd_workflow>
+Github repo link - <https://github.com/Kyawkhaing444/DevOpsChallenge>
